@@ -8,7 +8,7 @@
 ## 项目信息
 - openclaw-idea 博客：https://sunshinev.github.io/openclaw-idea/
 - GitHub Pages 域名规则：https://用户名.github.io/仓库名/
-- 博客源文件目录：`/Docs`（博客文章 MD 文件所在目录）
+- 博客源文件目录：`/docs/content/posts/`（Hugo 博客文章 MD 文件所在目录）
 - 仓库地址：https://github.com/sunshinev/openclaw-idea
 
 ## 博客文章生成流程
