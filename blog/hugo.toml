@@ -1,0 +1,43 @@
+baseURL = "https://sunshinev.github.io/openclaw-idea/"
+publishDir = "../docs"
+languageCode = "zh-cn"
+title = "科技猎手"
+theme = "doks"
+defaultContentLanguage = "zh"
+hasCJKLanguage = true
+
+# Doks 主题配置
+disableAliases = true
+disableHugoGeneratorInject = true
+enableEmoji = true
+enableRobotsTXT = true
+rssLimit = 10
+summarylength = 20
+
+[frontmatter]
+date = ["date", "publishDate", "lastmod"]
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"
+
+# 输出格式配置
+[outputs]
+  home = ["html", "rss", "sitemap", "searchIndex"]
+  page = ["html", "markdown"]
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[pagination]
+  pagerSize = 10
+
+[imaging]
+  anchor = "Center"
+  bgColor = "#ffffff"
+  hint = "photo"
+  quality = 85
+  resampleFilter = "Lanczos"

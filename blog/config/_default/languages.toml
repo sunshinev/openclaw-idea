@@ -1,0 +1,19 @@
+[en]
+  languageName = "English"
+  contentDir = "content/en"
+  weight = 10
+  [en.params]
+    languageISO = "EN"
+    languageTag = "en-US"
+    footer = 'Built with <a href="https://gohugo.io/">Hugo</a>'
+
+[zh]
+  languageName = "中文"
+  contentDir = "content/zh"
+  weight = 1
+  [zh.params]
+    languageISO = "ZH"
+    languageTag = "zh-CN"
+    titleAddition = "科技猎手"
+    description = "科技猎手 - 探索前沿科技"
+    footer = '由 <a href="https://gohugo.io/">Hugo</a> 驱动'

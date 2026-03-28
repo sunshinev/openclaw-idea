@@ -1,0 +1,55 @@
+# Hugo
+title = "科技猎手"
+description = "科技猎手 - 探索前沿科技"
+images = ["cover.png"]
+
+# mainSections
+mainSections = ["blog", "posts"]
+
+[social]
+  github = "sunshinev"
+
+# Doks 主题配置
+[doks]
+  # Color mode
+  colorMode = "auto"
+  colorModeToggler = true
+
+  # Navbar
+  navbarSticky = true
+  containerBreakpoint = "fluid"
+
+  # FlexSearch 搜索
+  flexSearch = true
+  showSummary = true
+  searchLimit = 99
+
+  # 导航
+  sectionNav = ["blog"]
+
+  # Blog 配置
+  imageList = true
+  imageSingle = true
+
+  # 仓库配置
+  editPage = false
+  lastMod = false
+  repoHost = "GitHub"
+  docsRepo = "https://github.com/sunshinev/openclaw-idea"
+  docsRepoBranch = "main"
+
+[seo]
+  [seo.title]
+    separator = ""
+    suffix = ""
+  [seo.description]
+    summaryFallback = ""
+  [seo.favicons]
+    icon = "favicon.png"
+    svgIcon = "favicon.svg"
+  [seo.schemas]
+    type = "Person"
+    name = "jaysun"
+    sameAs = []
+    images = ["cover.png"]
+    blogPosting = ["blog"]
