@@ -1,5 +1,6 @@
 baseURL = "https://sunshinev.github.io/openclaw-idea/"
 publishDir = "."
+theme = "papermod"
 languageCode = "zh-cn"
 title = "科技猎手"
 defaultContentLanguage = "zh"
