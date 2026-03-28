@@ -9,7 +9,6 @@ tags:
   - 开源
   - 硬件
   - Hacker News
-layout: single
 ---
 
 > 站在信息的交叉点，捕捉技术的每一次脉动

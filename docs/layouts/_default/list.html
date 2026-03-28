@@ -1,21 +1,9 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-  <meta charset="UTF-8">
-  <title>{{ .Title }}</title>
-</head>
-<body>
-  <header>
-    <h1><a href="/">{{ .Site.Title }}</a></h1>
-  </header>
-  <main>
-    <h2>{{ .Title }}</h2>
-    {{ range .Pages }}
-      <article>
-        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-        <time>{{ .Date.Format "2006-01-02" }}</time>
-      </article>
-    {{ end }}
-  </main>
-</body>
-</html>
+{{ define "title" }}{{ .Title }}{{ end }}
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<ul>
+{{ range .Pages }}
+<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+{{ end }}
+</ul>
+{{ end }}
