@@ -4,8 +4,7 @@
     <title>Series on 科技猎手</title>
     <link>https://sunshinev.github.io/openclaw-idea/series/</link>
     <description>Recent content in Series on 科技猎手</description>
-    <generator>Hugo</generator>
-    <language>zh-cn</language>
-    <atom:link href="https://sunshinev.github.io/openclaw-idea/series/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language><atom:link href="https://sunshinev.github.io/openclaw-idea/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

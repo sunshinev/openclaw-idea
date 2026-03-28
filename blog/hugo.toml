@@ -1,0 +1,25 @@
+baseURL = "https://sunshinev.github.io/openclaw-idea/"
+publishDir = "../docs"
+theme = "papermod"
+languageCode = "zh-cn"
+title = "科技猎手"
+defaultContentLanguage = "zh"
+hasCJKLanguage = true
+
+[frontmatter]
+date = ["date", "publishDate", "lastmod"]
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"
+
+[params]
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

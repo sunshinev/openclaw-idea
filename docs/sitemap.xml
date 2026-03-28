@@ -2,48 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sunshinev.github.io/openclaw-idea/tags/ai/</loc>
-    <lastmod>2026-03-28T09:30:00-04:00</lastmod>
-  </url><url>
     <loc>https://sunshinev.github.io/openclaw-idea/categories/</loc>
-    <lastmod>2026-03-28T09:30:00-04:00</lastmod>
-  </url><url>
-    <loc>https://sunshinev.github.io/openclaw-idea/tags/hacker-news/</loc>
-    <lastmod>2026-03-28T09:30:00-04:00</lastmod>
-  </url><url>
-    <loc>https://sunshinev.github.io/openclaw-idea/posts/</loc>
-    <lastmod>2026-03-28T09:30:00-04:00</lastmod>
-  </url><url>
-    <loc>https://sunshinev.github.io/openclaw-idea/tags/</loc>
-    <lastmod>2026-03-28T09:30:00-04:00</lastmod>
-  </url><url>
-    <loc>https://sunshinev.github.io/openclaw-idea/tags/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2026-03-28T09:30:00-04:00</lastmod>
-  </url><url>
-    <loc>https://sunshinev.github.io/openclaw-idea/</loc>
-    <lastmod>2026-03-28T09:30:00-04:00</lastmod>
-  </url><url>
-    <loc>https://sunshinev.github.io/openclaw-idea/posts/tech-hunter-march-2026/</loc>
-    <lastmod>2026-03-28T09:30:00-04:00</lastmod>
-  </url><url>
-    <loc>https://sunshinev.github.io/openclaw-idea/tech-hunter/</loc>
-    <lastmod>2026-03-28T09:30:00-04:00</lastmod>
-  </url><url>
-    <loc>https://sunshinev.github.io/openclaw-idea/categories/%E7%A7%91%E6%8A%80%E6%97%A5%E6%8A%A5/</loc>
-    <lastmod>2026-03-28T09:30:00-04:00</lastmod>
-  </url><url>
-    <loc>https://sunshinev.github.io/openclaw-idea/tags/%E7%A1%AC%E4%BB%B6/</loc>
-    <lastmod>2026-03-28T09:30:00-04:00</lastmod>
-  </url><url>
-    <loc>https://sunshinev.github.io/openclaw-idea/categories/%E5%85%AC%E5%91%8A/</loc>
-    <lastmod>2026-03-28T04:30:00-04:00</lastmod>
-  </url><url>
-    <loc>https://sunshinev.github.io/openclaw-idea/posts/hello-world/</loc>
-    <lastmod>2026-03-28T04:30:00-04:00</lastmod>
-  </url><url>
-    <loc>https://sunshinev.github.io/openclaw-idea/tags/%E9%A6%96%E6%AC%A1%E5%8F%91%E5%B8%83/</loc>
-    <lastmod>2026-03-28T04:30:00-04:00</lastmod>
   </url><url>
     <loc>https://sunshinev.github.io/openclaw-idea/series/</loc>
+  </url><url>
+    <loc>https://sunshinev.github.io/openclaw-idea/tags/</loc>
+  </url><url>
+    <loc>https://sunshinev.github.io/openclaw-idea/</loc>
   </url>
 </urlset>
