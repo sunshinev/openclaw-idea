@@ -1,0 +1,14 @@
+baseURL = "https://sunshinev.github.io/openclaw-idea/"
+publishDir = "../docs"
+languageCode = "zh-cn"
+title = "科技猎手"
+defaultContentLanguage = "zh"
+hasCJKLanguage = true
+
+[frontmatter]
+date = ["date", "publishDate", "lastmod"]
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"
