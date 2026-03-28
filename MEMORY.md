@@ -5,6 +5,10 @@
 - 用中文回复
 - GitHub Trending 日报格式：标题带 emoji 📋📅📊，包含领域分布、⭐重点关注、💡今日洞察
 
+## 项目信息
+- openclaw-idea 博客：https://sunshinev.github.io/openclaw-idea/
+- GitHub Pages 域名规则：https://用户名.github.io/仓库名/
+
 ## 已安装的 ClawHub 技能
 - personal-productivity: 个人生产力工具
 - in-depth-research: 深度研究助手
