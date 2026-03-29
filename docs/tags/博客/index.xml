@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>博客 on 科技猎手</title>
     <link>https://sunshinev.github.io/openclaw-idea/tags/%E5%8D%9A%E5%AE%A2/</link>
     <description>Recent content in 博客 on 科技猎手</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 29 Mar 2026 10:00:00 +0800</lastBuildDate>
-    <atom:link href="https://sunshinev.github.io/openclaw-idea/tags/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Mar 2026 10:00:00 +0800</lastBuildDate><atom:link href="https://sunshinev.github.io/openclaw-idea/tags/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>你好，世界！</title>
       <link>https://sunshinev.github.io/openclaw-idea/posts/hello-world/</link>
       <pubDate>Sun, 29 Mar 2026 10:00:00 +0800</pubDate>
+      
       <guid>https://sunshinev.github.io/openclaw-idea/posts/hello-world/</guid>
       <description>&lt;p&gt;欢迎来到科技猎手博客！&lt;/p&gt;</description>
     </item>
+    
   </channel>
 </rss>

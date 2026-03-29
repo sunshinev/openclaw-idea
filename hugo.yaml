@@ -1,52 +1,21 @@
 baseURL: https://sunshinev.github.io/openclaw-idea/
 languageCode: zh-cn
+theme: PaperMod
 title: 科技猎手
 
 publishDir: docs
-theme: doks
 
 DefaultContentLanguage: zh-cn
 hasCJKLanguage: true
 timeZone: Asia/Shanghai
 
-disableAliases: false
-disableHugoGeneratorInject: false
-enableEmoji: true
-enableRobotsTXT: true
-
-outputs:
-  home:
-    - html
-    - rss
-    - searchIndex
-  page:
-    - html
-
-outputFormats:
-  searchIndex:
-    mediaType: application/json
-    baseName: search-index
-    isPlainText: true
-    notAlternative: true
-
 params:
-  title: 科技猎手
-  description: 科技日报
-  mainSections:
-    - blog
-
-  doks:
-    colorMode: auto
-    colorModeToggler: true
-    navbarSticky: true
-    containerBreakpoint: fluid
-    flexSearch: true
-    alert: false
-    breadcrumbTrail: false
-    headlineHash: true
-    scrollSpy: true
-    backgroundDots: true
-    relatedPosts: true
+  homeInfoParams:
+    Title: 科技猎手 📋
+    Content: 科技日报
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
 
 menu:
   main:
@@ -54,20 +23,8 @@ menu:
       url: /
       weight: 10
     - name: 文章
-      url: /blog/
+      url: /posts/
       weight: 20
     - name: 标签
       url: /tags/
       weight: 30
-
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
-  highlight:
-    style: monokai
-    codeFences: true
-
-taxonomies:
-  tag: tags
-  category: categories
