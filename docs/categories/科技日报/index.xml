@@ -1,27 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>科技日报 on 科技猎手</title>
-    <link>https://sunshinev.github.io/openclaw-idea/categories/%E7%A7%91%E6%8A%80%E6%97%A5%E6%8A%A5/</link>
-    <description>Recent content in 科技日报 on 科技猎手</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Mar 2026 21:30:00 +0800</lastBuildDate><atom:link href="https://sunshinev.github.io/openclaw-idea/categories/%E7%A7%91%E6%8A%80%E6%97%A5%E6%8A%A5/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>科技猎手日报：2026年3月下旬</title>
-      <link>https://sunshinev.github.io/openclaw-idea/posts/tech-hunter-march-2026/</link>
-      <pubDate>Sat, 28 Mar 2026 21:30:00 +0800</pubDate>
-      
-      <guid>https://sunshinev.github.io/openclaw-idea/posts/tech-hunter-march-2026/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;站在信息的交叉点，捕捉技术的每一次脉动&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&amp;amp;h=400&amp;amp;fit=crop&#34; alt=&#34;科技未来&#34;  /&gt;
-&lt;/p&gt;
-&lt;h2 id=&#34;-本期焦点&#34;&gt;📰 本期焦点&lt;/h2&gt;
-&lt;h3 id=&#34;-ai-与硬件的碰撞&#34;&gt;🧠 AI 与硬件的碰撞&lt;/h3&gt;
-&lt;p&gt;本期最吸睛的消息来自 &lt;strong&gt;CERN&lt;/strong&gt; —— 欧洲核子研究中心正在使用** tiny AI models** 直接烧录到硅芯片中，用于实时过滤 LHC（大型强子对撞机）的数据。这可能是边缘 AI 应用的下一个前沿方向。&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>科技日报 on 科技猎手</title><link>https://sunshinev.github.io/openclaw-idea/categories/%E7%A7%91%E6%8A%80%E6%97%A5%E6%8A%A5/</link><description>Recent content in 科技日报 on 科技猎手</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 28 Mar 2026 21:30:00 +0800</lastBuildDate><atom:link href="https://sunshinev.github.io/openclaw-idea/categories/%E7%A7%91%E6%8A%80%E6%97%A5%E6%8A%A5/index.xml" rel="self" type="application/rss+xml"/><item><title>科技猎手日报：2026年3月下旬</title><link>https://sunshinev.github.io/openclaw-idea/posts/tech-hunter-march-2026/</link><pubDate>Sat, 28 Mar 2026 21:30:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/tech-hunter-march-2026/</guid><description>&lt;blockquote>
+&lt;p>站在信息的交叉点，捕捉技术的每一次脉动&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;img loading="lazy" src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&amp;amp;h=400&amp;amp;fit=crop" alt="科技未来" />
+&lt;/p>
+&lt;h2 id="-本期焦点">📰 本期焦点&lt;/h2>
+&lt;h3 id="-ai-与硬件的碰撞">🧠 AI 与硬件的碰撞&lt;/h3>
+&lt;p>本期最吸睛的消息来自 &lt;strong>CERN&lt;/strong> —— 欧洲核子研究中心正在使用** tiny AI models** 直接烧录到硅芯片中，用于实时过滤 LHC（大型强子对撞机）的数据。这可能是边缘 AI 应用的下一个前沿方向。&lt;/p></description></item></channel></rss>
