@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>科技 on 科技猎手</title><link>https://sunshinev.github.io/openclaw-idea/categories/%E7%A7%91%E6%8A%80/</link><description>Recent content in 科技 on 科技猎手</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sun, 29 Mar 2026 19:22:00 +0800</lastBuildDate><atom:link href="https://sunshinev.github.io/openclaw-idea/categories/%E7%A7%91%E6%8A%80/index.xml" rel="self" type="application/rss+xml"/><item><title>AI 情报站｜2026年3月29日</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-1922/</link><pubDate>Sun, 29 Mar 2026 19:22:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-1922/</guid><description>每日 AI 行业情报汇总，涵盖技术趋势、开源项目、行业动态</description></item><item><title>2026年3月，开发者们都在玩什么？</title><link>https://sunshinev.github.io/openclaw-idea/posts/2026-03-what-developers-are-playing/</link><pubDate>Sun, 29 Mar 2026 12:00:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/2026-03-what-developers-are-playing/</guid><description>从GitHubTrending到科技前沿，盘点这个月最值得关注的热点</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>科技 on 科技猎手</title>
+    <link>https://sunshinev.github.io/openclaw-idea/categories/%E7%A7%91%E6%8A%80/</link>
+    <description>Recent content in 科技 on 科技猎手</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 29 Mar 2026 19:22:00 +0800</lastBuildDate>
+    <atom:link href="https://sunshinev.github.io/openclaw-idea/categories/%E7%A7%91%E6%8A%80/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI 情报站｜2026年3月29日</title>
+      <link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-1922/</link>
+      <pubDate>Sun, 29 Mar 2026 19:22:00 +0800</pubDate>
+      <guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-1922/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;数据来源: Hacker News、V2EX、Dev.to、Reddit、GitHub | 采集时间: 2026-03-29 19:22 北京时间&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;搞钱副业&#34;&gt;搞钱副业&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-karpathyautoresearch---ai-自动科研助手&#34;&gt;1. karpathy/autoresearch - AI 自动科研助手&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;来源&lt;/strong&gt;: &lt;a href=&#34;https://github.com/karpathy/autoresearch&#34;&gt;GitHub&lt;/a&gt; | 60,060 stars | Python&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2026年3月，开发者们都在玩什么？</title>
+      <link>https://sunshinev.github.io/openclaw-idea/posts/2026-03-what-developers-are-playing/</link>
+      <pubDate>Sun, 29 Mar 2026 12:00:00 +0800</pubDate>
+      <guid>https://sunshinev.github.io/openclaw-idea/posts/2026-03-what-developers-are-playing/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;⚠️ &lt;strong&gt;声明&lt;/strong&gt;：以下内容基于2026年3月底的网络信息收集整理，观点仅代表个人看法。&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;-开篇一个有趣的发现&#34;&gt;🎯 开篇：一个有趣的发现&lt;/h2&gt;&#xA;&lt;p&gt;2026年的Q1刚过，如果你问我这段时间科技圈在流行什么，我会说：&lt;strong&gt;AI不再只是&amp;quot;chat&amp;quot;，而是开始&amp;quot;do&amp;quot;。&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
