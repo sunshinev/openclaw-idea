@@ -1,6 +1,6 @@
 ---
 title: "你好，世界！"
-date: 2026-03-29
+date: 2026-03-29T10:00:00+08:00
 draft: false
 categories:
   - 公告
