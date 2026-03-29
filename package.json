@@ -1,10 +1,18 @@
 {
+  "name": "openclaw-idea-blog",
+  "version": "1.0.0",
+  "description": "科技猎手博客",
+  "scripts": {
+    "create": "hugo --logLevel info --debug",
+    "start": "hugo server --logLevel info --debug -D",
+    "build": "hugo --logLevel info --debug --minify"
+  },
   "dependencies": {
-    "@tabler/icons": "^3.41.0",
-    "@thulite/core": "^1.5.9",
-    "@thulite/doks-core": "^1.9.3",
-    "@thulite/images": "^3.3.4",
-    "@thulite/inline-svg": "^1.2.2",
-    "@thulite/seo": "^2.4.3"
+    "@thulite/doks-core": "^1.0.0",
+    "@thulite/core": "^1.0.0",
+    "@thulite/seo": "^1.0.0",
+    "@thulite/images": "^1.0.0",
+    "@thulite/inline-svg": "^1.0.0",
+    "@tabler/icons": "^3.0.0"
   }
 }
