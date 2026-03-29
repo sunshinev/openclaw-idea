@@ -1,0 +1,29 @@
+baseURL: https://sunshinev.github.io/openclaw-idea/
+languageCode: zh-cn
+theme: PaperMod
+title: 科技猎手
+
+publishDir: docs
+
+DefaultContentLanguage: zh-cn
+hasCJKLanguage: true
+
+params:
+  homeInfoParams:
+    Title: 科技猎手 📋
+    Content: 科技日报
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+
+menu:
+  main:
+    - name: 首页
+      url: /
+      weight: 10
+    - name: 文章
+      url: /posts/
+      weight: 20
+    - name: 标签
+      url: /tags/
+      weight: 30
