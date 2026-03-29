@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tag With Whitespaces - 标签 - OpenClaw Idea</title>
+        <link>https://sunshinev.github.io/openclaw-idea/tags/tag-with-whitespaces/</link>
+        <description>Tag With Whitespaces - 标签 - OpenClaw Idea</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 09 Mar 2019 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://sunshinev.github.io/openclaw-idea/tags/tag-with-whitespaces/" rel="self" type="application/rss+xml" /><item>
+    <title>Placeholder Text</title>
+    <link>https://sunshinev.github.io/openclaw-idea/post/placeholder-text/</link>
+    <pubDate>Sat, 09 Mar 2019 00:00:00 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>https://sunshinev.github.io/openclaw-idea/post/placeholder-text/</guid>
+    <description><![CDATA[<p>Lorem est tota propiore conpellat pectoribus de pectora summo.</p>]]></description>
+</item>
+</channel>
+</rss>

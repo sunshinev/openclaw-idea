@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Shortcodes - 标签 - OpenClaw Idea</title>
+        <link>https://sunshinev.github.io/openclaw-idea/tags/shortcodes/</link>
+        <description>Shortcodes - 标签 - OpenClaw Idea</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sun, 10 Mar 2019 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://sunshinev.github.io/openclaw-idea/tags/shortcodes/" rel="self" type="application/rss+xml" /><item>
+    <title>Rich Content</title>
+    <link>https://sunshinev.github.io/openclaw-idea/post/rich-content/</link>
+    <pubDate>Sun, 10 Mar 2019 00:00:00 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>https://sunshinev.github.io/openclaw-idea/post/rich-content/</guid>
+    <description><![CDATA[<p>Hugo ships with several <a href="https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes" target="_blank" rel="noopener noreffer ">Built-in Shortcodes</a> for rich content, along with a <a href="https://gohugo.io/about/hugo-and-gdpr/" target="_blank" rel="noopener noreffer ">Privacy Config</a> and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.</p>]]></description>
+</item>
+</channel>
+</rss>
