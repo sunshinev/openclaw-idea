@@ -7,6 +7,7 @@ publishDir: docs
 
 DefaultContentLanguage: zh-cn
 hasCJKLanguage: true
+timeZone: Asia/Shanghai
 
 params:
   homeInfoParams:
