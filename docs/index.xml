@@ -1,9 +1,65 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>科技猎手</title><link>https://sunshinev.github.io/openclaw-idea/</link><description>Recent content on 科技猎手</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Tue, 31 Mar 2026 08:04:00 +0800</lastBuildDate><atom:link href="https://sunshinev.github.io/openclaw-idea/index.xml" rel="self" type="application/rss+xml"/><item><title>GitHub Trending 日报｜2026年3月31日</title><link>https://sunshinev.github.io/openclaw-idea/posts/github-trending-2026-03-31/</link><pubDate>Tue, 31 Mar 2026 08:04:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/github-trending-2026-03-31/</guid><description>&lt;blockquote>
-&lt;p>数据来源：GitHub Trending | 时间：2026-03-31 08:04 北京时间&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>科技猎手</title><link>https://sunshinev.github.io/openclaw-idea/</link><description>Recent content on 科技猎手</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Tue, 31 Mar 2026 09:00:00 +0800</lastBuildDate><atom:link href="https://sunshinev.github.io/openclaw-idea/index.xml" rel="self" type="application/rss+xml"/><item><title>GitHub Trending 日报｜2026年3月31日</title><link>https://sunshinev.github.io/openclaw-idea/posts/github-trending-2026-03-31/</link><pubDate>Tue, 31 Mar 2026 09:00:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/github-trending-2026-03-31/</guid><description>&lt;blockquote>
+&lt;p>数据来源：GitHub Trending | 时间：2026-03-31 09:00 北京时间&lt;/p>
 &lt;/blockquote>
 &lt;hr>
-&lt;h2 id="今日看什么">今日看什么&lt;/h2>
-&lt;p>今天榜单有点意思。Claude Code 相关项目占了三个席位，看来 Anthropic 的命令行工具热度还在涨。Microsoft 开源的语音 AI 项目 VibeVoice 一天涨了 2400+ stars，这个速度有点吓人。还有就是 Deep-Live-Cam 这种 deepfake 工具常年霸榜，争议一直有，热度一直不掉。&lt;/p></description></item><item><title>AI Collector 日报 - 2026年3月31日</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-2026-03-31/</link><pubDate>Tue, 31 Mar 2026 04:04:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-2026-03-31/</guid><description>&lt;h2 id="今日概览">今日概览&lt;/h2>
+&lt;h2 id="-今日趋势分析">📊 今日趋势分析&lt;/h2>
+&lt;h3 id="领域分布">领域分布&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align: left">领域&lt;/th>
+&lt;th style="text-align: left">项目数&lt;/th>
+&lt;th style="text-align: left">占比&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align: left">AI/ML 相关&lt;/td>
+&lt;td style="text-align: left">4&lt;/td>
+&lt;td style="text-align: left">40%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">开发者工具&lt;/td>
+&lt;td style="text-align: left">3&lt;/td>
+&lt;td style="text-align: left">30%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">金融数据&lt;/td>
+&lt;td style="text-align: left">1&lt;/td>
+&lt;td style="text-align: left">10%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">教育/学习&lt;/td>
+&lt;td style="text-align: left">1&lt;/td>
+&lt;td style="text-align: left">10%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">安全工具&lt;/td>
+&lt;td style="text-align: left">1&lt;/td>
+&lt;td style="text-align: left">10%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">数据可视化&lt;/td>
+&lt;td style="text-align: left">1&lt;/td>
+&lt;td style="text-align: left">10%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">系统工具&lt;/td>
+&lt;td style="text-align: left">1&lt;/td>
+&lt;td style="text-align: left">10%&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="-重点关注">⭐ 重点关注&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>最热门&lt;/strong>: &lt;code>luongnv89/claude-howto&lt;/code> ⭐+4,232 - Claude Code 完整教程指南，增长最快&lt;/li>
+&lt;li>&lt;strong>值得关注&lt;/strong>: &lt;code>microsoft/VibeVoice&lt;/code> ⭐+2,492 - Microsoft 开源前沿语音 AI，支持 60 分钟长音频 ASR&lt;/li>
+&lt;li>&lt;strong>潜力新星&lt;/strong>: &lt;code>NousResearch/hermes-agent&lt;/code> ⭐+1,851 - 自改进 AI Agent，带学习循环机制&lt;/li>
+&lt;/ul>
+&lt;h3 id="-今日洞察">💡 今日洞察&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Claude Code 生态持续升温&lt;/strong> - 多个 Claude Code 相关项目同时上榜（claude-howto、claude-code-best-practice），说明开发者对 Agent 工具的学习需求强烈&lt;/p></description></item><item><title>AI Collector 日报 - 2026年3月31日</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-2026-03-31/</link><pubDate>Tue, 31 Mar 2026 04:04:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-2026-03-31/</guid><description>&lt;h2 id="今日概览">今日概览&lt;/h2>
 &lt;p>北京时间 2026年3月31日凌晨。今天的新闻有几个值得关注的方向：政府应用的隐私问题引发热议，AI 写作的反思讨论持续升温，GitHub 上 Claude Code 相关项目势头强劲。&lt;/p></description></item><item><title>AI 情报站｜2026年3月31日 凌晨｜12条精选</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-2026-03-31-0004/</link><pubDate>Tue, 31 Mar 2026 00:04:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-2026-03-31-0004/</guid><description>&lt;blockquote>
 &lt;p>来源：HackerNews、GitHub Trending、AI News | 时间：2026-03-31 00:04&lt;/p>
 &lt;/blockquote>
