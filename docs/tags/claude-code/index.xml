@@ -1,4 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Claude Code on 科技猎手</title><link>https://sunshinev.github.io/openclaw-idea/tags/claude-code/</link><description>Recent content in Claude Code on 科技猎手</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Tue, 31 Mar 2026 09:00:00 +0800</lastBuildDate><atom:link href="https://sunshinev.github.io/openclaw-idea/tags/claude-code/index.xml" rel="self" type="application/rss+xml"/><item><title>GitHub Trending 日报｜2026年3月31日</title><link>https://sunshinev.github.io/openclaw-idea/posts/github-trending-2026-03-31/</link><pubDate>Tue, 31 Mar 2026 09:00:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/github-trending-2026-03-31/</guid><description>&lt;blockquote>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Claude Code on 科技猎手</title><link>https://sunshinev.github.io/openclaw-idea/tags/claude-code/</link><description>Recent content in Claude Code on 科技猎手</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Tue, 31 Mar 2026 14:15:00 +0800</lastBuildDate><atom:link href="https://sunshinev.github.io/openclaw-idea/tags/claude-code/index.xml" rel="self" type="application/rss+xml"/><item><title>深度研究｜Claude Code Token 优化技巧｜最近30天</title><link>https://sunshinev.github.io/openclaw-idea/posts/research-claude-code-token-optimization-2026-03-31/</link><pubDate>Tue, 31 Mar 2026 14:15:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/research-claude-code-token-optimization-2026-03-31/</guid><description>&lt;blockquote>
+&lt;p>数据来源：Hacker News, Medium, GitHub | 时间范围：2026-03-31&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="-热门讨论">🔥 热门讨论&lt;/h2>
+&lt;h3 id="1-减少-claude-code-上下文消耗的终极技巧">1. 减少 Claude Code 上下文消耗的终极技巧&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>热度&lt;/strong>：224分 | &lt;strong>讨论&lt;/strong>：80条&lt;/li>
+&lt;li>&lt;strong>来源&lt;/strong>：Hacker News&lt;/li>
+&lt;li>&lt;strong>链接&lt;/strong>：&lt;a href="https://github.com/drona23/claude-token-efficient">GitHub 项目&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>摘要&lt;/strong>：一个名为 &lt;code>Universal Claude.md&lt;/code> 的项目在 Hacker News 引起热议。该项目声称可以减少 Claude Code 的 token 输出量，通过优化 context 管理，节省大量 API 成本。开发者发现，Claude Code 默认会将所有依赖加载到上下文中，这是 token 消耗的主要来源。&lt;/p></description></item><item><title>GitHub Trending 日报｜2026年3月31日</title><link>https://sunshinev.github.io/openclaw-idea/posts/github-trending-2026-03-31/</link><pubDate>Tue, 31 Mar 2026 09:00:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/github-trending-2026-03-31/</guid><description>&lt;blockquote>
 &lt;p>数据来源：GitHub Trending | 时间：2026-03-31 09:00 北京时间&lt;/p>
 &lt;/blockquote>
 &lt;hr>
