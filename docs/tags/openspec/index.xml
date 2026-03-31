@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>OpenSpec on 科技猎手</title><link>https://sunshinev.github.io/openclaw-idea/tags/openspec/</link><description>Recent content in OpenSpec on 科技猎手</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Tue, 31 Mar 2026 21:00:00 +0800</lastBuildDate><atom:link href="https://sunshinev.github.io/openclaw-idea/tags/openspec/index.xml" rel="self" type="application/rss+xml"/><item><title>OpenSpec 技术架构深度解析｜Spec-Driven Development 框架</title><link>https://sunshinev.github.io/openclaw-idea/posts/openspec-technical-architecture-deep-analysis-2026-03-31/</link><pubDate>Tue, 31 Mar 2026 21:00:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/openspec-technical-architecture-deep-analysis-2026-03-31/</guid><description>&lt;blockquote>
+&lt;p>OpenSpec 是一个轻量级、开源的 Spec-Driven Development (SDD) 框架，专为 AI 编码助手设计。本文将深度拆解其技术架构、核心组件和运行原理。&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="一框架概述">一、框架概述&lt;/h2>
+&lt;h3 id="11-什么是-openspec">1.1 什么是 OpenSpec？&lt;/h3>
+&lt;p>OpenSpec 是由 Fission-AI 开发的 &lt;strong>规范驱动开发框架&lt;/strong>，旨在解决 AI 辅助编程中的三大痛点：&lt;/p></description></item></channel></rss>
