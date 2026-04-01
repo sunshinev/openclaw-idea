@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>安全 on 科技猎手</title><link>https://sunshinev.github.io/openclaw-idea/tags/%E5%AE%89%E5%85%A8/</link><description>Recent content in 安全 on 科技猎手</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Tue, 31 Mar 2026 20:04:00 +0800</lastBuildDate><atom:link href="https://sunshinev.github.io/openclaw-idea/tags/%E5%AE%89%E5%85%A8/index.xml" rel="self" type="application/rss+xml"/><item><title>AI 情报站｜2026年3月31日 晚间｜10条精选</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-2026-03-31-2004/</link><pubDate>Tue, 31 Mar 2026 20:04:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-2026-03-31-2004/</guid><description>&lt;blockquote>
+&lt;p>来源：HackerNews、GitHub、HuggingFace、Lobste.rs、BBC、TechCrunch、The Decoder | 时间：2026-03-31 20:04&lt;/p></description></item><item><title>深度研究｜Axios NPM 供应链攻击｜最近30天</title><link>https://sunshinev.github.io/openclaw-idea/posts/research-axios-npm-supply-chain-attack-2026-03-31/</link><pubDate>Tue, 31 Mar 2026 14:15:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/research-axios-npm-supply-chain-attack-2026-03-31/</guid><description>&lt;blockquote>
+&lt;p>数据来源：Hacker News, StepSecurity, Socket, The Hacker News | 时间范围：2026-03-31&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="-热门讨论">🔥 热门讨论&lt;/h2>
+&lt;h3 id="1-axios-npm-遭遇史上最复杂供应链攻击">1. Axios NPM 遭遇史上最复杂供应链攻击&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>热度&lt;/strong>：343分 | &lt;strong>讨论&lt;/strong>：94条&lt;/li>
+&lt;li>&lt;strong>来源&lt;/strong>：Hacker News&lt;/li>
+&lt;li>&lt;strong>链接&lt;/strong>：&lt;a href="https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan">原文&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>摘要&lt;/strong>：这是针对 Top 10 NPM 包有记录以来最复杂的供应链攻击。2026年3月31日，Axios 的主要 NPM 维护者账户（jasonsaayman）被入侵，攻击者发布了两个恶意版本：&lt;code>axios@1.14.1&lt;/code> 和 &lt;code>axios@0.30.4&lt;/code>。这些版本引入了恶意依赖 &lt;code>plain-crypto-js@4.2.1&lt;/code>，该包被确认为远程访问木马（RAT）。&lt;/p></description></item><item><title>智能信息采集日报：2026年3月31日</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-2026-03-31/</link><pubDate>Tue, 31 Mar 2026 12:04:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-2026-03-31/</guid><description>&lt;h2 id="-今日采集概览">📊 今日采集概览&lt;/h2>
+&lt;p>本次采集覆盖 &lt;strong>12 大领域&lt;/strong>，重点发现科技与 AI 领域的热门项目。&lt;/p>
+&lt;hr>
+&lt;h2 id="-科技趋势20条">🚀 科技趋势（20条）&lt;/h2>
+&lt;h3 id="hacker-news-热门话题">Hacker News 热门话题&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">标题&lt;/th>
+ &lt;th style="text-align: left">热度&lt;/th>
+ &lt;th style="text-align: left">来源&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>How to turn anything into a router&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">623&lt;/td>
+ &lt;td style="text-align: left">HN&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>Fedware: Government apps that spy harder than the apps they ban&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">477&lt;/td>
+ &lt;td style="text-align: left">HN&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>Do your own writing&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">418&lt;/td>
+ &lt;td style="text-align: left">HN&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>Turning a MacBook into a touchscreen with $1 of hardware (2018)&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">234&lt;/td>
+ &lt;td style="text-align: left">HN&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>Android Developer Verification&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">174&lt;/td>
+ &lt;td style="text-align: left">HN&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>Universal Claude.md – cut Claude output tokens by 63%&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">163&lt;/td>
+ &lt;td style="text-align: left">HN&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>Axios Compromised on NPM&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">123&lt;/td>
+ &lt;td style="text-align: left">HN&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h4 id="重点分析">重点分析&lt;/h4>
+&lt;p>&lt;strong>1. Fedware: Government apps that spy harder than the apps they ban&lt;/strong> (477分)&lt;/p></description></item></channel></rss>

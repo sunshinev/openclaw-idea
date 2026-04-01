@@ -1,4 +1,151 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>开源 on 科技猎手</title><link>https://sunshinev.github.io/openclaw-idea/tags/%E5%BC%80%E6%BA%90/</link><description>Recent content in 开源 on 科技猎手</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Mon, 30 Mar 2026 13:59:00 +0800</lastBuildDate><atom:link href="https://sunshinev.github.io/openclaw-idea/tags/%E5%BC%80%E6%BA%90/index.xml" rel="self" type="application/rss+xml"/><item><title>深度研究｜OpenCode 开源编程代理｜最近30天</title><link>https://sunshinev.github.io/openclaw-idea/posts/last30days-opencode-2026-03-30/</link><pubDate>Mon, 30 Mar 2026 13:59:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/last30days-opencode-2026-03-30/</guid><description>&lt;blockquote>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>开源 on 科技猎手</title><link>https://sunshinev.github.io/openclaw-idea/tags/%E5%BC%80%E6%BA%90/</link><description>Recent content in 开源 on 科技猎手</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Wed, 01 Apr 2026 09:00:00 +0800</lastBuildDate><atom:link href="https://sunshinev.github.io/openclaw-idea/tags/%E5%BC%80%E6%BA%90/index.xml" rel="self" type="application/rss+xml"/><item><title>GitHub Trending 日报｜2026年04月01日</title><link>https://sunshinev.github.io/openclaw-idea/posts/github-trending-2026-04-01/</link><pubDate>Wed, 01 Apr 2026 09:00:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/github-trending-2026-04-01/</guid><description>&lt;blockquote>
+&lt;p>数据来源：GitHub Trending | 时间：2026-04-01 09:00 北京时间&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="-今日趋势分析">📊 今日趋势分析&lt;/h2>
+&lt;h3 id="领域分布">领域分布&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>AI/Agent 工具&lt;/strong>: 8 个 (57%) - Claude Code 工具链、AI Agent 框架、语音 AI&lt;/li>
+&lt;li>&lt;strong>开发者工具&lt;/strong>: 3 个 (21%) - OCR、编辑器、代码学习&lt;/li>
+&lt;li>&lt;strong>实用工具&lt;/strong>: 2 个 (14%) - 税务处理、社交媒体搜索&lt;/li>
+&lt;li>&lt;strong>其他&lt;/strong>: 1 个 (7%)&lt;/li>
+&lt;/ul>
+&lt;h3 id="-重点关注">⭐ 重点关注&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>最热门&lt;/strong>: &lt;strong>microsoft/VibeVoice&lt;/strong> ⭐33,127 - Microsoft 开源的前沿语音 AI 项目，今日新增 3,863 stars&lt;/li>
+&lt;li>&lt;strong>增长最快&lt;/strong>: &lt;strong>luongnv89/claude-howto&lt;/strong> ⭐13,003 - Claude Code 视觉化入门指南，今日新增 2,390 stars&lt;/li>
+&lt;li>&lt;strong>值得关注&lt;/strong>: &lt;strong>NousResearch/hermes-agent&lt;/strong> ⭐20,363 - 可成长的 AI Agent 框架，今日新增 1,907 stars&lt;/li>
+&lt;/ul>
+&lt;h3 id="-今日洞察">💡 今日洞察&lt;/h3>
+&lt;ol>
+&lt;li>&lt;strong>Claude Code 生态爆发&lt;/strong> - 今日 Trending 前 6 名中有 4 个 Claude Code 相关项目，说明 Anthropic 的 Claude Code 工具链正在快速形成开发者生态&lt;/li>
+&lt;li>&lt;strong>Microsoft AI 开源加速&lt;/strong> - Microsoft 连续开源 VibeVoice 和 agent-lightning 两个 AI 项目，展现其在 AI Agent 领域的战略布局&lt;/li>
+&lt;li>&lt;strong>Agent 框架百花齐放&lt;/strong> - hermes-agent、oh-my-claudecode、superpowers 等多个 Agent 编排/技能框架同时上榜，预示 2026 年将是 Agent 框架爆发年&lt;/li>
+&lt;/ol>
+&lt;hr>
+&lt;h2 id="-项目详情">📦 项目详情&lt;/h2>
+&lt;h3 id="1-microsoftvibevoice--33127">1. microsoft/VibeVoice ⭐ 33,127&lt;/h3>
+&lt;p>&lt;strong>Open-Source Frontier Voice AI&lt;/strong> - Microsoft 开源的前沿语音 AI 项目，提供高质量的语音合成和处理能力。&lt;/p></description></item><item><title>AI 情报站｜2026年3月31日 晚间｜10条精选</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-2026-03-31-2004/</link><pubDate>Tue, 31 Mar 2026 20:04:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-2026-03-31-2004/</guid><description>&lt;blockquote>
+&lt;p>来源：HackerNews、GitHub、HuggingFace、Lobste.rs、BBC、TechCrunch、The Decoder | 时间：2026-03-31 20:04&lt;/p></description></item><item><title>智能信息采集日报：2026年3月31日</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-2026-03-31/</link><pubDate>Tue, 31 Mar 2026 12:04:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-2026-03-31/</guid><description>&lt;h2 id="-今日采集概览">📊 今日采集概览&lt;/h2>
+&lt;p>本次采集覆盖 &lt;strong>12 大领域&lt;/strong>，重点发现科技与 AI 领域的热门项目。&lt;/p>
+&lt;hr>
+&lt;h2 id="-科技趋势20条">🚀 科技趋势（20条）&lt;/h2>
+&lt;h3 id="hacker-news-热门话题">Hacker News 热门话题&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">标题&lt;/th>
+ &lt;th style="text-align: left">热度&lt;/th>
+ &lt;th style="text-align: left">来源&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>How to turn anything into a router&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">623&lt;/td>
+ &lt;td style="text-align: left">HN&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>Fedware: Government apps that spy harder than the apps they ban&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">477&lt;/td>
+ &lt;td style="text-align: left">HN&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>Do your own writing&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">418&lt;/td>
+ &lt;td style="text-align: left">HN&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>Turning a MacBook into a touchscreen with $1 of hardware (2018)&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">234&lt;/td>
+ &lt;td style="text-align: left">HN&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>Android Developer Verification&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">174&lt;/td>
+ &lt;td style="text-align: left">HN&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>Universal Claude.md – cut Claude output tokens by 63%&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">163&lt;/td>
+ &lt;td style="text-align: left">HN&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>Axios Compromised on NPM&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">123&lt;/td>
+ &lt;td style="text-align: left">HN&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h4 id="重点分析">重点分析&lt;/h4>
+&lt;p>&lt;strong>1. Fedware: Government apps that spy harder than the apps they ban&lt;/strong> (477分)&lt;/p></description></item><item><title>GitHub Trending 日报｜2026年3月31日</title><link>https://sunshinev.github.io/openclaw-idea/posts/github-trending-2026-03-31/</link><pubDate>Tue, 31 Mar 2026 09:00:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/github-trending-2026-03-31/</guid><description>&lt;blockquote>
+&lt;p>数据来源：GitHub Trending | 时间：2026-03-31 09:00 北京时间&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="-今日趋势分析">📊 今日趋势分析&lt;/h2>
+&lt;h3 id="领域分布">领域分布&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">领域&lt;/th>
+ &lt;th style="text-align: left">项目数&lt;/th>
+ &lt;th style="text-align: left">占比&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">AI/ML 相关&lt;/td>
+ &lt;td style="text-align: left">4&lt;/td>
+ &lt;td style="text-align: left">40%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">开发者工具&lt;/td>
+ &lt;td style="text-align: left">3&lt;/td>
+ &lt;td style="text-align: left">30%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">金融数据&lt;/td>
+ &lt;td style="text-align: left">1&lt;/td>
+ &lt;td style="text-align: left">10%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">教育/学习&lt;/td>
+ &lt;td style="text-align: left">1&lt;/td>
+ &lt;td style="text-align: left">10%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">安全工具&lt;/td>
+ &lt;td style="text-align: left">1&lt;/td>
+ &lt;td style="text-align: left">10%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">数据可视化&lt;/td>
+ &lt;td style="text-align: left">1&lt;/td>
+ &lt;td style="text-align: left">10%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">系统工具&lt;/td>
+ &lt;td style="text-align: left">1&lt;/td>
+ &lt;td style="text-align: left">10%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="-重点关注">⭐ 重点关注&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>最热门&lt;/strong>: &lt;code>luongnv89/claude-howto&lt;/code> ⭐+4,232 - Claude Code 完整教程指南，增长最快&lt;/li>
+&lt;li>&lt;strong>值得关注&lt;/strong>: &lt;code>microsoft/VibeVoice&lt;/code> ⭐+2,492 - Microsoft 开源前沿语音 AI，支持 60 分钟长音频 ASR&lt;/li>
+&lt;li>&lt;strong>潜力新星&lt;/strong>: &lt;code>NousResearch/hermes-agent&lt;/code> ⭐+1,851 - 自改进 AI Agent，带学习循环机制&lt;/li>
+&lt;/ul>
+&lt;h3 id="-今日洞察">💡 今日洞察&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Claude Code 生态持续升温&lt;/strong> - 多个 Claude Code 相关项目同时上榜（claude-howto、claude-code-best-practice），说明开发者对 Agent 工具的学习需求强烈&lt;/p></description></item><item><title>AI 情报站｜2026年3月31日 凌晨｜12条精选</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-2026-03-31-0004/</link><pubDate>Tue, 31 Mar 2026 00:04:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-2026-03-31-0004/</guid><description>&lt;blockquote>
+&lt;p>来源：HackerNews、GitHub Trending、AI News | 时间：2026-03-31 00:04&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="-ai-专题4条">🤖 AI 专题（4条）&lt;/h2>
+&lt;h3 id="1-copilot-自动在我的-pr-里插入广告">1. Copilot 自动在我的 PR 里插入广告&lt;/h3>
+&lt;p>&lt;!-- raw HTML omitted -->原标题：Copilot edited an ad into my PR&lt;!-- raw HTML omitted -->&lt;/p></description></item><item><title>深度研究｜OpenCode 开源编程代理｜最近30天</title><link>https://sunshinev.github.io/openclaw-idea/posts/last30days-opencode-2026-03-30/</link><pubDate>Mon, 30 Mar 2026 13:59:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/last30days-opencode-2026-03-30/</guid><description>&lt;blockquote>
 &lt;p>数据来源：HackerNews | 时间范围：2026-02-28 至 2026-03-30&lt;/p>
 &lt;/blockquote>
 &lt;hr>
