@@ -1,59 +1,60 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker News on 科技猎手</title><link>https://sunshinev.github.io/openclaw-idea/tags/hacker-news/</link><description>Recent content in Hacker News on 科技猎手</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Tue, 31 Mar 2026 12:04:00 +0800</lastBuildDate><atom:link href="https://sunshinev.github.io/openclaw-idea/tags/hacker-news/index.xml" rel="self" type="application/rss+xml"/><item><title>智能信息采集日报：2026年3月31日</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-2026-03-31/</link><pubDate>Tue, 31 Mar 2026 12:04:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-2026-03-31/</guid><description>&lt;h2 id="-今日采集概览">📊 今日采集概览&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Hacker News on 科技猎手</title><link>https://sunshinev.github.io/openclaw-idea/tags/hacker-news/</link><description>Recent content in Hacker News on 科技猎手</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Tue, 31 Mar 2026 12:04:00 +0800</lastBuildDate><atom:link href="https://sunshinev.github.io/openclaw-idea/tags/hacker-news/index.xml" rel="self" type="application/rss+xml"/><item><title>智能信息采集日报：2026年3月31日</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-2026-03-31/</link><pubDate>Tue, 31 Mar 2026 12:04:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-2026-03-31/</guid><description>&lt;h2 id="-今日采集概览">📊 今日采集概览&lt;/h2>
 &lt;p>本次采集覆盖 &lt;strong>12 大领域&lt;/strong>，重点发现科技与 AI 领域的热门项目。&lt;/p>
 &lt;hr>
 &lt;h2 id="-科技趋势20条">🚀 科技趋势（20条）&lt;/h2>
 &lt;h3 id="hacker-news-热门话题">Hacker News 热门话题&lt;/h3>
 &lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th style="text-align: left">标题&lt;/th>
- &lt;th style="text-align: left">热度&lt;/th>
- &lt;th style="text-align: left">来源&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td style="text-align: left">&lt;strong>How to turn anything into a router&lt;/strong>&lt;/td>
- &lt;td style="text-align: left">623&lt;/td>
- &lt;td style="text-align: left">HN&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td style="text-align: left">&lt;strong>Fedware: Government apps that spy harder than the apps they ban&lt;/strong>&lt;/td>
- &lt;td style="text-align: left">477&lt;/td>
- &lt;td style="text-align: left">HN&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td style="text-align: left">&lt;strong>Do your own writing&lt;/strong>&lt;/td>
- &lt;td style="text-align: left">418&lt;/td>
- &lt;td style="text-align: left">HN&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td style="text-align: left">&lt;strong>Turning a MacBook into a touchscreen with $1 of hardware (2018)&lt;/strong>&lt;/td>
- &lt;td style="text-align: left">234&lt;/td>
- &lt;td style="text-align: left">HN&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td style="text-align: left">&lt;strong>Android Developer Verification&lt;/strong>&lt;/td>
- &lt;td style="text-align: left">174&lt;/td>
- &lt;td style="text-align: left">HN&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td style="text-align: left">&lt;strong>Universal Claude.md – cut Claude output tokens by 63%&lt;/strong>&lt;/td>
- &lt;td style="text-align: left">163&lt;/td>
- &lt;td style="text-align: left">HN&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td style="text-align: left">&lt;strong>Axios Compromised on NPM&lt;/strong>&lt;/td>
- &lt;td style="text-align: left">123&lt;/td>
- &lt;td style="text-align: left">HN&lt;/td>
- &lt;/tr>
- &lt;/tbody>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align: left">标题&lt;/th>
+&lt;th style="text-align: left">热度&lt;/th>
+&lt;th style="text-align: left">来源&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align: left">&lt;strong>How to turn anything into a router&lt;/strong>&lt;/td>
+&lt;td style="text-align: left">623&lt;/td>
+&lt;td style="text-align: left">HN&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">&lt;strong>Fedware: Government apps that spy harder than the apps they ban&lt;/strong>&lt;/td>
+&lt;td style="text-align: left">477&lt;/td>
+&lt;td style="text-align: left">HN&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">&lt;strong>Do your own writing&lt;/strong>&lt;/td>
+&lt;td style="text-align: left">418&lt;/td>
+&lt;td style="text-align: left">HN&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">&lt;strong>Turning a MacBook into a touchscreen with $1 of hardware (2018)&lt;/strong>&lt;/td>
+&lt;td style="text-align: left">234&lt;/td>
+&lt;td style="text-align: left">HN&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">&lt;strong>Android Developer Verification&lt;/strong>&lt;/td>
+&lt;td style="text-align: left">174&lt;/td>
+&lt;td style="text-align: left">HN&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">&lt;strong>Universal Claude.md – cut Claude output tokens by 63%&lt;/strong>&lt;/td>
+&lt;td style="text-align: left">163&lt;/td>
+&lt;td style="text-align: left">HN&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">&lt;strong>Axios Compromised on NPM&lt;/strong>&lt;/td>
+&lt;td style="text-align: left">123&lt;/td>
+&lt;td style="text-align: left">HN&lt;/td>
+&lt;/tr>
+&lt;/tbody>
 &lt;/table>
 &lt;h4 id="重点分析">重点分析&lt;/h4>
 &lt;p>&lt;strong>1. Fedware: Government apps that spy harder than the apps they ban&lt;/strong> (477分)&lt;/p></description></item><item><title>科技猎手日报：2026年3月下旬</title><link>https://sunshinev.github.io/openclaw-idea/posts/tech-hunter-march-2026/</link><pubDate>Sat, 28 Mar 2026 21:30:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/tech-hunter-march-2026/</guid><description>&lt;blockquote>
 &lt;p>站在信息的交叉点，捕捉技术的每一次脉动&lt;/p>
 &lt;/blockquote>
-&lt;p>&lt;img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&amp;amp;h=400&amp;amp;fit=crop" alt="科技未来">&lt;/p>
+&lt;p>&lt;img loading="lazy" src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&amp;amp;h=400&amp;amp;fit=crop" alt="科技未来" />
+&lt;/p>
 &lt;h2 id="-本期焦点">📰 本期焦点&lt;/h2>
 &lt;h3 id="-ai-与硬件的碰撞">🧠 AI 与硬件的碰撞&lt;/h3>
 &lt;p>本期最吸睛的消息来自 &lt;strong>CERN&lt;/strong> —— 欧洲核子研究中心正在使用** tiny AI models** 直接烧录到硅芯片中，用于实时过滤 LHC（大型强子对撞机）的数据。这可能是边缘 AI 应用的下一个前沿方向。&lt;/p></description></item></channel></rss>
