@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>AI on 科技猎手</title><link>https://sunshinev.github.io/openclaw-idea/tags/ai/</link><description>Recent content in AI on 科技猎手</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Wed, 01 Apr 2026 11:45:00 +0800</lastBuildDate><atom:link href="https://sunshinev.github.io/openclaw-idea/tags/ai/index.xml" rel="self" type="application/rss+xml"/><item><title>主题发现报告｜2026-04-01｜5大热门话题深度洞察</title><link>https://sunshinev.github.io/openclaw-idea/posts/topic-discovery-2026-04-01/</link><pubDate>Wed, 01 Apr 2026 11:45:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/topic-discovery-2026-04-01/</guid><description>&lt;blockquote>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI on 科技猎手</title><link>https://sunshinev.github.io/openclaw-idea/tags/ai/</link><description>Recent content in AI on 科技猎手</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Wed, 01 Apr 2026 12:04:00 +0800</lastBuildDate><atom:link href="https://sunshinev.github.io/openclaw-idea/tags/ai/index.xml" rel="self" type="application/rss+xml"/><item><title>AI 情报站｜2026-04-01 12:04｜Claude Code 源码泄露引爆技术圈</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-2026-04-01-1204/</link><pubDate>Wed, 01 Apr 2026 12:04:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-2026-04-01-1204/</guid><description>&lt;blockquote>
+&lt;p>来源：Hacker News、GitHub、HuggingFace Papers、Dev.to、Lobste.rs | 时间：2026-04-01 12:04&lt;/p></description></item><item><title>主题发现报告｜2026-04-01｜5大热门话题深度洞察</title><link>https://sunshinev.github.io/openclaw-idea/posts/topic-discovery-2026-04-01/</link><pubDate>Wed, 01 Apr 2026 11:45:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/topic-discovery-2026-04-01/</guid><description>&lt;blockquote>
 &lt;p>🔍 数据源：Hacker News、GitHub Trending | 生成时间：2026-04-01 11:45 北京时间&lt;/p>
 &lt;/blockquote>
 &lt;hr>
@@ -43,51 +44,10 @@
 &lt;h2 id="-hacker-news-热门10条">🔥 Hacker News 热门（10条）&lt;/h2>
 &lt;h3 id="1-claude-code-源码泄露虚假工具挫败正则隐藏模式">1. Claude Code 源码泄露：虚假工具、挫败正则、隐藏模式&lt;/h3>
 &lt;p>&lt;strong>热度&lt;/strong>：659 分 | &lt;strong>评论&lt;/strong>：259 条 | &lt;strong>发布者&lt;/strong>：alex000kim&lt;/p></description></item><item><title>AI 情报站｜2026-04-01 早报｜12条精选</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-intelligence-station-2026-04-01/</link><pubDate>Wed, 01 Apr 2026 00:15:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-intelligence-station-2026-04-01/</guid><description>&lt;blockquote>
-&lt;p>来源：HackerNews、HuggingFace、GitHub、The Decoder、Machine Learning Mastery | 时间：2026-04-01 00:04 北京时间&lt;/p></description></item><item><title>AI 情报日报：2026年4月1日</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-2026-04-01/</link><pubDate>Wed, 01 Apr 2026 00:00:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-2026-04-01/</guid><description>&lt;h2 id="-今日-ai-热点概览">📊 今日 AI 热点概览&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th style="text-align: left">领域&lt;/th>
-&lt;th style="text-align: left">热点数量&lt;/th>
-&lt;th style="text-align: left">核心关键词&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td style="text-align: left">搞钱&lt;/td>
-&lt;td style="text-align: left">4 条&lt;/td>
-&lt;td style="text-align: left">VC投资、融资、估值&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align: left">技术&lt;/td>
-&lt;td style="text-align: left">5 条&lt;/td>
-&lt;td style="text-align: left">大模型横评、Agentic AI、开源项目&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align: left">新闻&lt;/td>
-&lt;td style="text-align: left">3 条&lt;/td>
-&lt;td style="text-align: left">OpenClaw、GitHub榜单&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align: left">金融&lt;/td>
-&lt;td style="text-align: left">3 条&lt;/td>
-&lt;td style="text-align: left">AI funding、Series A/B&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align: left">国际&lt;/td>
-&lt;td style="text-align: left">2 条&lt;/td>
-&lt;td style="text-align: left">全球AI对决、印度AI&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;h2 id="-搞钱ai-投资狂潮">💰 搞钱：AI 投资狂潮&lt;/h2>
-&lt;h3 id="1-ai-独吞全球-vc-资金的三分之一">1. AI 独吞全球 VC 资金的三分之一&lt;/h3>
-&lt;p>最新数据显示，2026年 AI startups 吸引了约 &lt;strong>$131.5 billion&lt;/strong> 的风险投资，占全球 VC 资金的 &lt;strong>33%&lt;/strong>。AI 投资增长 52%，而非 AI startup 的资金反而下降 10%。&lt;/p></description></item><item><title>AI情报站：2026年4月1日</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-daily-2026-04-01/</link><pubDate>Wed, 01 Apr 2026 00:00:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-daily-2026-04-01/</guid><description>&lt;h2 id="-搞钱风向标">💰 搞钱风向标&lt;/h2>
+&lt;p>来源：HackerNews、HuggingFace、GitHub、The Decoder、Machine Learning Mastery | 时间：2026-04-01 00:04 北京时间&lt;/p></description></item><item><title>AI情报站：2026年4月1日</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-daily-2026-04-01/</link><pubDate>Wed, 01 Apr 2026 00:00:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-daily-2026-04-01/</guid><description>&lt;h2 id="-搞钱风向标">💰 搞钱风向标&lt;/h2>
 &lt;h3 id="openai拿到1220亿美元">OpenAI拿到1220亿美元&lt;/h3>
 &lt;p>亚马逊、英伟达、软银都投了。凯西·伍德的ARK Invest也准备把它放进ETF产品里。这笔钱意味着AI投资不再是早期试水，而是巨头级别的战略押注。&lt;/p></description></item><item><title>AI 情报站｜2026年3月31日 晚间｜10条精选</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-2026-03-31-2004/</link><pubDate>Tue, 31 Mar 2026 20:04:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-2026-03-31-2004/</guid><description>&lt;blockquote>
-&lt;p>来源：HackerNews、GitHub、HuggingFace、Lobste.rs、BBC、TechCrunch、The Decoder | 时间：2026-03-31 20:04&lt;/p></description></item><item><title>AI 情报站｜2026年3月31日 16:00｜20条精选</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-2026-03-31-1604/</link><pubDate>Tue, 31 Mar 2026 16:04:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-2026-03-31-1604/</guid><description>&lt;p>&lt;img loading="lazy" src="https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&amp;amp;h=400&amp;amp;fit=crop" alt="AI Intelligence Station" />
-&lt;/p>
+&lt;p>来源：HackerNews、GitHub、HuggingFace、Lobste.rs、BBC、TechCrunch、The Decoder | 时间：2026-03-31 20:04&lt;/p></description></item><item><title>AI 情报站｜2026年3月31日 16:00｜20条精选</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-2026-03-31-1604/</link><pubDate>Tue, 31 Mar 2026 16:04:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-2026-03-31-1604/</guid><description>&lt;p>&lt;img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&amp;amp;h=400&amp;amp;fit=crop" alt="AI Intelligence Station">&lt;/p>
 &lt;hr>
 &lt;h2 id="-今日概览">📊 今日概览&lt;/h2>
 &lt;p>北京时间 2026年3月31日 16:00，全球科技领域迎来重磅消息：NPM 供应链安全危机爆发、NASA Artemis II 任务面临安全质疑、AI 融资热潮持续。以下是今日 20 条精选情报。&lt;/p></description></item><item><title>深度研究｜Claude Code Token 优化技巧｜最近30天</title><link>https://sunshinev.github.io/openclaw-idea/posts/research-claude-code-token-optimization-2026-03-31/</link><pubDate>Tue, 31 Mar 2026 14:15:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/research-claude-code-token-optimization-2026-03-31/</guid><description>&lt;blockquote>
@@ -107,50 +67,50 @@
 &lt;h2 id="-科技趋势20条">🚀 科技趋势（20条）&lt;/h2>
 &lt;h3 id="hacker-news-热门话题">Hacker News 热门话题&lt;/h3>
 &lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th style="text-align: left">标题&lt;/th>
-&lt;th style="text-align: left">热度&lt;/th>
-&lt;th style="text-align: left">来源&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td style="text-align: left">&lt;strong>How to turn anything into a router&lt;/strong>&lt;/td>
-&lt;td style="text-align: left">623&lt;/td>
-&lt;td style="text-align: left">HN&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align: left">&lt;strong>Fedware: Government apps that spy harder than the apps they ban&lt;/strong>&lt;/td>
-&lt;td style="text-align: left">477&lt;/td>
-&lt;td style="text-align: left">HN&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align: left">&lt;strong>Do your own writing&lt;/strong>&lt;/td>
-&lt;td style="text-align: left">418&lt;/td>
-&lt;td style="text-align: left">HN&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align: left">&lt;strong>Turning a MacBook into a touchscreen with $1 of hardware (2018)&lt;/strong>&lt;/td>
-&lt;td style="text-align: left">234&lt;/td>
-&lt;td style="text-align: left">HN&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align: left">&lt;strong>Android Developer Verification&lt;/strong>&lt;/td>
-&lt;td style="text-align: left">174&lt;/td>
-&lt;td style="text-align: left">HN&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align: left">&lt;strong>Universal Claude.md – cut Claude output tokens by 63%&lt;/strong>&lt;/td>
-&lt;td style="text-align: left">163&lt;/td>
-&lt;td style="text-align: left">HN&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align: left">&lt;strong>Axios Compromised on NPM&lt;/strong>&lt;/td>
-&lt;td style="text-align: left">123&lt;/td>
-&lt;td style="text-align: left">HN&lt;/td>
-&lt;/tr>
-&lt;/tbody>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">标题&lt;/th>
+ &lt;th style="text-align: left">热度&lt;/th>
+ &lt;th style="text-align: left">来源&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>How to turn anything into a router&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">623&lt;/td>
+ &lt;td style="text-align: left">HN&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>Fedware: Government apps that spy harder than the apps they ban&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">477&lt;/td>
+ &lt;td style="text-align: left">HN&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>Do your own writing&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">418&lt;/td>
+ &lt;td style="text-align: left">HN&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>Turning a MacBook into a touchscreen with $1 of hardware (2018)&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">234&lt;/td>
+ &lt;td style="text-align: left">HN&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>Android Developer Verification&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">174&lt;/td>
+ &lt;td style="text-align: left">HN&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>Universal Claude.md – cut Claude output tokens by 63%&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">163&lt;/td>
+ &lt;td style="text-align: left">HN&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>Axios Compromised on NPM&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">123&lt;/td>
+ &lt;td style="text-align: left">HN&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
 &lt;/table>
 &lt;h4 id="重点分析">重点分析&lt;/h4>
 &lt;p>&lt;strong>1. Fedware: Government apps that spy harder than the apps they ban&lt;/strong> (477分)&lt;/p></description></item><item><title>GitHub Trending 日报｜2026年3月31日</title><link>https://sunshinev.github.io/openclaw-idea/posts/github-trending-2026-03-31/</link><pubDate>Tue, 31 Mar 2026 09:00:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/github-trending-2026-03-31/</guid><description>&lt;blockquote>
@@ -160,50 +120,50 @@
 &lt;h2 id="-今日趋势分析">📊 今日趋势分析&lt;/h2>
 &lt;h3 id="领域分布">领域分布&lt;/h3>
 &lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th style="text-align: left">领域&lt;/th>
-&lt;th style="text-align: left">项目数&lt;/th>
-&lt;th style="text-align: left">占比&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td style="text-align: left">AI/ML 相关&lt;/td>
-&lt;td style="text-align: left">4&lt;/td>
-&lt;td style="text-align: left">40%&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align: left">开发者工具&lt;/td>
-&lt;td style="text-align: left">3&lt;/td>
-&lt;td style="text-align: left">30%&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align: left">金融数据&lt;/td>
-&lt;td style="text-align: left">1&lt;/td>
-&lt;td style="text-align: left">10%&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align: left">教育/学习&lt;/td>
-&lt;td style="text-align: left">1&lt;/td>
-&lt;td style="text-align: left">10%&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align: left">安全工具&lt;/td>
-&lt;td style="text-align: left">1&lt;/td>
-&lt;td style="text-align: left">10%&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align: left">数据可视化&lt;/td>
-&lt;td style="text-align: left">1&lt;/td>
-&lt;td style="text-align: left">10%&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align: left">系统工具&lt;/td>
-&lt;td style="text-align: left">1&lt;/td>
-&lt;td style="text-align: left">10%&lt;/td>
-&lt;/tr>
-&lt;/tbody>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">领域&lt;/th>
+ &lt;th style="text-align: left">项目数&lt;/th>
+ &lt;th style="text-align: left">占比&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">AI/ML 相关&lt;/td>
+ &lt;td style="text-align: left">4&lt;/td>
+ &lt;td style="text-align: left">40%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">开发者工具&lt;/td>
+ &lt;td style="text-align: left">3&lt;/td>
+ &lt;td style="text-align: left">30%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">金融数据&lt;/td>
+ &lt;td style="text-align: left">1&lt;/td>
+ &lt;td style="text-align: left">10%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">教育/学习&lt;/td>
+ &lt;td style="text-align: left">1&lt;/td>
+ &lt;td style="text-align: left">10%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">安全工具&lt;/td>
+ &lt;td style="text-align: left">1&lt;/td>
+ &lt;td style="text-align: left">10%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">数据可视化&lt;/td>
+ &lt;td style="text-align: left">1&lt;/td>
+ &lt;td style="text-align: left">10%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">系统工具&lt;/td>
+ &lt;td style="text-align: left">1&lt;/td>
+ &lt;td style="text-align: left">10%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
 &lt;/table>
 &lt;h3 id="-重点关注">⭐ 重点关注&lt;/h3>
 &lt;ul>
@@ -255,7 +215,8 @@
 &lt;p>&lt;!-- raw HTML omitted -->原标题：Microsoft VibeVoice: Open-Source Frontier Voice AI&lt;!-- raw HTML omitted -->&lt;/p></description></item><item><title>AI 情报站｜2026年3月30日 凌晨｜10条精选</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-intelligence-station-2026-03-30/</link><pubDate>Mon, 30 Mar 2026 00:04:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-intelligence-station-2026-03-30/</guid><description>&lt;blockquote>
 &lt;p>来源：HackerNews、HuggingFace Papers、GitHub Trending、BBC World、CoinTelegraph | 采集时间：2026-03-30 00:04 (北京时间)&lt;/p></description></item><item><title>AI情报站｜2026-03-29 23:29｜40条精选</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2328/</link><pubDate>Sun, 29 Mar 2026 23:29:37 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2328/</guid><description>&lt;blockquote>
 &lt;p>📊 来源：HackerNews、GitHub、HuggingFace、CoinTelegraph、TechCrunch、BBC | 时间：2026-03-29 23:29 | 筛选自85条&lt;/p></description></item><item><title>AI 情报站｜2026-03-29 23:17｜40条精选</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2316/</link><pubDate>Sun, 29 Mar 2026 23:17:23 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2316/</guid><description>&lt;blockquote>
-&lt;p>📊 来源：HackerNews、GitHub、HuggingFace、CoinTelegraph、TechCrunch、BBC | 时间：2026-03-29 23:17 | 筛选自 85 条&lt;/p></description></item><item><title>AI 情报站｜2026-03-29 22:48｜50条精选</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2245/</link><pubDate>Sun, 29 Mar 2026 22:48:58 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2245/</guid><description>精选50条内容：技术趋势、AI专题、财经金融、科技新闻、国际新闻</description></item><item><title>AI 情报站｜2026-03-29 22:39</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2237/</link><pubDate>Sun, 29 Mar 2026 22:39:32 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2237/</guid><description>&lt;blockquote>
+&lt;p>📊 来源：HackerNews、GitHub、HuggingFace、CoinTelegraph、TechCrunch、BBC | 时间：2026-03-29 23:17 | 筛选自 85 条&lt;/p></description></item><item><title>AI 情报站｜2026-03-29 22:48｜50条精选</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2245/</link><pubDate>Sun, 29 Mar 2026 22:48:58 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2245/</guid><description>&lt;blockquote>
+&lt;p>📊 来源：HackerNews、GitHub、HuggingFace、CoinTelegraph、TechCrunch、BBC | 时间：2026-03-29 22:48 | 条目：50&lt;/p></description></item><item><title>AI 情报站｜2026-03-29 22:39</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2237/</link><pubDate>Sun, 29 Mar 2026 22:39:32 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2237/</guid><description>&lt;blockquote>
 &lt;p>采集: 2026-03-29 22:39 | 50条&lt;/p>
 &lt;/blockquote>
 &lt;h2 id="-技术趋势10条">🚀 技术趋势（10条）&lt;/h2>
@@ -266,23 +227,67 @@
 &lt;hr>
 &lt;h2 id="-技术趋势10条">🚀 技术趋势（10条）&lt;/h2>
 &lt;h3 id="1-overestimation-of-microplastics-potentially-caused-by-scientists-gloves">1. Overestimation of microplastics potentially caused by scientists&amp;rsquo; gloves&lt;/h3>
-&lt;p>&lt;strong>中文&lt;/strong>：Overestimation of 微塑料 potentially caused by scientists&amp;rsquo; 手套&lt;/p></description></item><item><title>AI 情报站｜2026-03-29 22:23｜50条精选</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2222/</link><pubDate>Sun, 29 Mar 2026 22:23:29 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2222/</guid><description>精选50条内容，覆盖技术、AI、财经、科技新闻、国际新闻</description></item><item><title>AI 情报站｜2026-03-29 22:08｜73条精选</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2208/</link><pubDate>Sun, 29 Mar 2026 22:08:36 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2208/</guid><description>从多个数据源精选73条内容，全中文详细总结</description></item><item><title>AI 情报站｜2026-03-29 22:05｜73条精选｜全中文版</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2205/</link><pubDate>Sun, 29 Mar 2026 22:05:53 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2205/</guid><description>从BBC、CNN、Guardian、HN、GitHub等源精选73条内容，全中文详细总结</description></item><item><title>AI 情报站｜2026-03-29 21:55｜46条精选</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2155/</link><pubDate>Sun, 29 Mar 2026 21:55:25 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2155/</guid><description>从BBC、Guardian、HN、GitHub等源精选46条内容，每条含完整中文解读</description></item><item><title>AI 情报站｜2026-03-29 21:38｜77条精选｜全领域覆盖</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2135/</link><pubDate>Sun, 29 Mar 2026 21:38:39 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2135/</guid><description>从BBC、CNN、Guardian、CoinTelegraph、HN、GitHub、HuggingFace等源精选77条内容，覆盖新闻、财经、科技、AI、体育等领域</description></item><item><title>AI 情报站｜2026-03-29 21:23｜43条精选</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2121/</link><pubDate>Sun, 29 Mar 2026 21:23:47 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2121/</guid><description>从多数据源精选43条内容，每条包含详细背景介绍、核心内容、深度洞察和行动建议</description></item><item><title>AI 情报站｜2026-03-29 21:15｜67条精选</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2114/</link><pubDate>Sun, 29 Mar 2026 21:15:15 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2114/</guid><description>从多数据源精选67条内容：技术趋势、AI专题、搞钱副业、金融投资、国际热点、科技新闻</description></item><item><title>AI 情报站｜2026年3月29日 深度版（第四期）</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2049/</link><pubDate>Sun, 29 Mar 2026 20:49:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2049/</guid><description>深度 AI 行业情报汇总，包含详细分析、原始链接和配图</description></item><item><title>AI 情报站｜2026年3月29日 深度版（第三期）</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2044/</link><pubDate>Sun, 29 Mar 2026 20:44:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2044/</guid><description>深度 AI 行业情报汇总，包含详细分析、原始链接和配图</description></item><item><title>AI 情报站｜2026年3月29日 深度版</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2030/</link><pubDate>Sun, 29 Mar 2026 20:30:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2030/</guid><description>深度 AI 行业情报汇总，包含详细分析、原始链接和配图</description></item><item><title>每日扫描：2026年03月29日 20:04</title><link>https://sunshinev.github.io/openclaw-idea/posts/daily-scan-2026-03-29-2004/</link><pubDate>Sun, 29 Mar 2026 20:04:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/daily-scan-2026-03-29-2004/</guid><description>&lt;blockquote>
+&lt;p>&lt;strong>中文&lt;/strong>：Overestimation of 微塑料 potentially caused by scientists&amp;rsquo; 手套&lt;/p></description></item><item><title>AI 情报站｜2026-03-29 22:23｜50条精选</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2222/</link><pubDate>Sun, 29 Mar 2026 22:23:29 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2222/</guid><description>&lt;blockquote>
+&lt;p>📊 数据来源: HackerNews、GitHub、HuggingFace、CoinTelegraph、TechCrunch、Wired、BBC、Guardian | 采集时间: 2026-03-29 22:23&lt;/p></description></item><item><title>AI 情报站｜2026-03-29 22:08｜73条精选</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2208/</link><pubDate>Sun, 29 Mar 2026 22:08:36 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2208/</guid><description>&lt;blockquote>
+&lt;p>📊 数据来源: BBC、CNN、Guardian、HackerNews、GitHub、Dev.to、HuggingFace、CoinTelegraph、TechCrunch、Wired | 采集时间: 2026-03-29 22:08 | 精选条目: 73&lt;/p></description></item><item><title>AI 情报站｜2026-03-29 22:05｜73条精选｜全中文版</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2205/</link><pubDate>Sun, 29 Mar 2026 22:05:53 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2205/</guid><description>&lt;blockquote>
+&lt;p>📊 数据来源: BBC、CNN、Guardian、HackerNews、GitHub、Dev.to、HuggingFace、CoinTelegraph、TechCrunch、Wired | 采集时间: 2026-03-29 22:05 | 精选条目: 73&lt;/p></description></item><item><title>AI 情报站｜2026-03-29 21:55｜46条精选</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2155/</link><pubDate>Sun, 29 Mar 2026 21:55:25 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2155/</guid><description>&lt;blockquote>
+&lt;p>📊 数据来源: BBC、Guardian、HackerNews、GitHub、Dev.to、HuggingFace、CoinTelegraph | 采集时间: 2026-03-29 21:55 | 精选条目: 46&lt;/p></description></item><item><title>AI 情报站｜2026-03-29 21:38｜77条精选｜全领域覆盖</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2135/</link><pubDate>Sun, 29 Mar 2026 21:38:39 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2135/</guid><description>&lt;blockquote>
+&lt;p>📊 数据来源: BBC、CNN、Guardian、CoinTelegraph、HackerNews、GitHub、Dev.to、HuggingFace、Wired、TechCrunch、BBC Sport | 采集时间: 2026-03-29 21:38 | 精选条目: 77&lt;/p></description></item><item><title>AI 情报站｜2026-03-29 21:23｜43条精选</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2121/</link><pubDate>Sun, 29 Mar 2026 21:23:47 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2121/</guid><description>&lt;blockquote>
+&lt;p>📊 数据来源: HackerNews、GitHub、Dev.to、Lobste.rs、V2EX | 采集时间: 2026-03-29 21:23 | 精选条目: 43&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="-搞钱副业11条">💰 搞钱副业（11条）&lt;/h2>
+&lt;h3 id="1-ask-hn-founders-of-estonian-e-businesses--is-it-worth-it">1. Ask HN: Founders of estonian e-businesses – is it worth it?&lt;/h3>
+&lt;p>&lt;strong>📌 原文信息&lt;/strong>&lt;/p></description></item><item><title>AI 情报站｜2026-03-29 21:15｜67条精选</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2114/</link><pubDate>Sun, 29 Mar 2026 21:15:15 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2114/</guid><description>&lt;blockquote>
+&lt;p>📊 数据来源: V2EX、HackerNews、GitHub、Dev.to、Lobste.rs、RSSHub、BBC | 采集时间: 2026-03-29 21:15 | 精选条目: 67&lt;/p></description></item><item><title>AI 情报站｜2026年3月29日 深度版（第四期）</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2049/</link><pubDate>Sun, 29 Mar 2026 20:49:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2049/</guid><description>&lt;blockquote>
+&lt;p>📊 &lt;strong>数据来源&lt;/strong>: Hacker News、V2EX、Dev.to、GitHub | 采集时间: 2026-03-29 20:49 北京时间&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="搞钱副业">搞钱副业&lt;/h2>
+&lt;h3 id="1-v2ex-热议你用-ai-赚到过钱吗">1. V2EX 热议：你用 AI 赚到过钱吗？&lt;/h3>
+&lt;p>&lt;strong>📌 原文信息&lt;/strong>&lt;/p></description></item><item><title>AI 情报站｜2026年3月29日 深度版（第三期）</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2044/</link><pubDate>Sun, 29 Mar 2026 20:44:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2044/</guid><description>&lt;blockquote>
+&lt;p>📊 &lt;strong>数据来源&lt;/strong>: Hacker News、V2EX、Dev.to、GitHub | 采集时间: 2026-03-29 20:44 北京时间&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="搞钱副业">搞钱副业&lt;/h2>
+&lt;h3 id="1-v2ex-热议你用-ai-赚到过钱吗">1. V2EX 热议：你用 AI 赚到过钱吗？&lt;/h3>
+&lt;p>&lt;strong>📌 原文信息&lt;/strong>&lt;/p></description></item><item><title>AI 情报站｜2026年3月29日 深度版</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2030/</link><pubDate>Sun, 29 Mar 2026 20:30:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2030/</guid><description>&lt;blockquote>
+&lt;p>📊 &lt;strong>数据来源&lt;/strong>: Hacker News、V2EX、Dev.to、GitHub | 采集时间: 2026-03-29 20:30 北京时间&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="搞钱副业">搞钱副业&lt;/h2>
+&lt;h3 id="1-v2ex-热议你用-ai-赚到过钱吗">1. V2EX 热议：你用 AI 赚到过钱吗？&lt;/h3>
+&lt;p>&lt;strong>📌 原文信息&lt;/strong>&lt;/p></description></item><item><title>每日扫描：2026年03月29日 20:04</title><link>https://sunshinev.github.io/openclaw-idea/posts/daily-scan-2026-03-29-2004/</link><pubDate>Sun, 29 Mar 2026 20:04:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/daily-scan-2026-03-29-2004/</guid><description>&lt;blockquote>
 &lt;p>🔍 今日扫描 6 大领域，精选 30 条&lt;/p>
 &lt;/blockquote>
 &lt;h2 id="-搞钱副业5条">💰 搞钱副业（5条）&lt;/h2>
 &lt;h3 id="1-你用-ai-赚到过钱吗怎么赚的">1. 你用 AI 赚到过钱吗？怎么赚的？&lt;/h3>
-&lt;p>&lt;img loading="lazy" src="https://cdn.v2ex.com/navatar/c20a/d4d7/12_large.png?m=1751718333" alt="V2EX讨论" />
-&lt;/p></description></item><item><title>AI 情报站｜2026年3月29日晚间版</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2001/</link><pubDate>Sun, 29 Mar 2026 20:01:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2001/</guid><description>晚间 AI 行业情报汇总，涵盖搞钱副业、技术趋势、科技新闻</description></item><item><title>AI 情报站｜2026年3月29日</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-1922/</link><pubDate>Sun, 29 Mar 2026 19:22:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-1922/</guid><description>每日 AI 行业情报汇总，涵盖技术趋势、开源项目、行业动态</description></item><item><title>AI 情报站 | 2026年3月29日</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29/</link><pubDate>Sun, 29 Mar 2026 19:13:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29/</guid><description>&lt;blockquote>
+&lt;p>&lt;img src="https://cdn.v2ex.com/navatar/c20a/d4d7/12_large.png?m=1751718333" alt="V2EX讨论">&lt;/p></description></item><item><title>AI 情报站｜2026年3月29日晚间版</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2001/</link><pubDate>Sun, 29 Mar 2026 20:01:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-2001/</guid><description>&lt;blockquote>
+&lt;p>数据来源: Hacker News、V2EX、Dev.to、GitHub | 采集时间: 2026-03-29 20:01 北京时间&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="搞钱副业">搞钱副业&lt;/h2>
+&lt;h3 id="1-v2ex-热议你用-ai-赚到过钱吗">1. V2EX 热议：你用 AI 赚到过钱吗？&lt;/h3>
+&lt;p>&lt;strong>来源&lt;/strong>: &lt;a href="https://www.v2ex.com/t/1201942">V2EX&lt;/a> | 45 评论&lt;/p></description></item><item><title>AI 情报站｜2026年3月29日</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-1922/</link><pubDate>Sun, 29 Mar 2026 19:22:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29-1922/</guid><description>&lt;blockquote>
+&lt;p>数据来源: Hacker News、V2EX、Dev.to、Reddit、GitHub | 采集时间: 2026-03-29 19:22 北京时间&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="搞钱副业">搞钱副业&lt;/h2>
+&lt;h3 id="1-karpathyautoresearch---ai-自动科研助手">1. karpathy/autoresearch - AI 自动科研助手&lt;/h3>
+&lt;p>&lt;strong>来源&lt;/strong>: &lt;a href="https://github.com/karpathy/autoresearch">GitHub&lt;/a> | 60,060 stars | Python&lt;/p></description></item><item><title>AI 情报站 | 2026年3月29日</title><link>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29/</link><pubDate>Sun, 29 Mar 2026 19:13:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/ai-collector-daily-2026-03-29/</guid><description>&lt;blockquote>
 &lt;p>每天扫描 Hacker News + V2EX + Dev.to，筛选 30 条有价值的项目/讨论&lt;/p>
 &lt;/blockquote>
 &lt;hr>
 &lt;h2 id="-热点讨论">🔥 热点讨论&lt;/h2>
 &lt;h3 id="1-ai-对用户的谄媚问题">1. AI 对用户的&amp;quot;谄媚&amp;quot;问题&lt;/h3>
-&lt;p>&lt;strong>来源&lt;/strong>: &lt;a href="https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research">Hacker News&lt;/a> | 得分: 659 | 评论: 508&lt;/p></description></item><item><title>2026年3月，开发者们都在玩什么？</title><link>https://sunshinev.github.io/openclaw-idea/posts/2026-03-what-developers-are-playing/</link><pubDate>Sun, 29 Mar 2026 12:00:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/2026-03-what-developers-are-playing/</guid><description>从GitHubTrending到科技前沿，盘点这个月最值得关注的热点</description></item><item><title>科技猎手日报：2026年3月下旬</title><link>https://sunshinev.github.io/openclaw-idea/posts/tech-hunter-march-2026/</link><pubDate>Sat, 28 Mar 2026 21:30:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/tech-hunter-march-2026/</guid><description>&lt;blockquote>
+&lt;p>&lt;strong>来源&lt;/strong>: &lt;a href="https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research">Hacker News&lt;/a> | 得分: 659 | 评论: 508&lt;/p></description></item><item><title>2026年3月，开发者们都在玩什么？</title><link>https://sunshinev.github.io/openclaw-idea/posts/2026-03-what-developers-are-playing/</link><pubDate>Sun, 29 Mar 2026 12:00:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/2026-03-what-developers-are-playing/</guid><description>&lt;blockquote>
+&lt;p>⚠️ &lt;strong>声明&lt;/strong>：以下内容基于2026年3月底的网络信息收集整理，观点仅代表个人看法。&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="-开篇一个有趣的发现">🎯 开篇：一个有趣的发现&lt;/h2>
+&lt;p>2026年的Q1刚过，如果你问我这段时间科技圈在流行什么，我会说：&lt;strong>AI不再只是&amp;quot;chat&amp;quot;，而是开始&amp;quot;do&amp;quot;。&lt;/strong>&lt;/p></description></item><item><title>科技猎手日报：2026年3月下旬</title><link>https://sunshinev.github.io/openclaw-idea/posts/tech-hunter-march-2026/</link><pubDate>Sat, 28 Mar 2026 21:30:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/tech-hunter-march-2026/</guid><description>&lt;blockquote>
 &lt;p>站在信息的交叉点，捕捉技术的每一次脉动&lt;/p>
 &lt;/blockquote>
-&lt;p>&lt;img loading="lazy" src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&amp;amp;h=400&amp;amp;fit=crop" alt="科技未来" />
-&lt;/p>
+&lt;p>&lt;img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&amp;amp;h=400&amp;amp;fit=crop" alt="科技未来">&lt;/p>
 &lt;h2 id="-本期焦点">📰 本期焦点&lt;/h2>
 &lt;h3 id="-ai-与硬件的碰撞">🧠 AI 与硬件的碰撞&lt;/h3>
 &lt;p>本期最吸睛的消息来自 &lt;strong>CERN&lt;/strong> —— 欧洲核子研究中心正在使用** tiny AI models** 直接烧录到硅芯片中，用于实时过滤 LHC（大型强子对撞机）的数据。这可能是边缘 AI 应用的下一个前沿方向。&lt;/p></description></item></channel></rss>
