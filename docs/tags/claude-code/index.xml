@@ -1,4 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Claude Code on 科技猎手</title><link>https://sunshinev.github.io/openclaw-idea/tags/claude-code/</link><description>Recent content in Claude Code on 科技猎手</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Wed, 01 Apr 2026 07:15:00 +0800</lastBuildDate><atom:link href="https://sunshinev.github.io/openclaw-idea/tags/claude-code/index.xml" rel="self" type="application/rss+xml"/><item><title>Claude How To 技术架构深度解析</title><link>https://sunshinev.github.io/openclaw-idea/posts/claude-howto-technical-architecture-deep-analysis-2026-04-01/</link><pubDate>Wed, 01 Apr 2026 07:15:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/claude-howto-technical-architecture-deep-analysis-2026-04-01/</guid><description>&lt;h2 id="一项目概述">一、项目概述&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Claude Code on 科技猎手</title><link>https://sunshinev.github.io/openclaw-idea/tags/claude-code/</link><description>Recent content in Claude Code on 科技猎手</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Wed, 01 Apr 2026 09:00:00 +0800</lastBuildDate><atom:link href="https://sunshinev.github.io/openclaw-idea/tags/claude-code/index.xml" rel="self" type="application/rss+xml"/><item><title>GitHub Trending 日报｜2026年04月01日</title><link>https://sunshinev.github.io/openclaw-idea/posts/github-trending-2026-04-01/</link><pubDate>Wed, 01 Apr 2026 09:00:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/github-trending-2026-04-01/</guid><description>&lt;blockquote>
+&lt;p>数据来源：GitHub Trending | 时间：2026-04-01 09:00 北京时间&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="-今日趋势分析">📊 今日趋势分析&lt;/h2>
+&lt;h3 id="领域分布">领域分布&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>AI/Agent 工具&lt;/strong>: 8 个 (57%) - Claude Code 工具链、AI Agent 框架、语音 AI&lt;/li>
+&lt;li>&lt;strong>开发者工具&lt;/strong>: 3 个 (21%) - OCR、编辑器、代码学习&lt;/li>
+&lt;li>&lt;strong>实用工具&lt;/strong>: 2 个 (14%) - 税务处理、社交媒体搜索&lt;/li>
+&lt;li>&lt;strong>其他&lt;/strong>: 1 个 (7%)&lt;/li>
+&lt;/ul>
+&lt;h3 id="-重点关注">⭐ 重点关注&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>最热门&lt;/strong>: &lt;strong>microsoft/VibeVoice&lt;/strong> ⭐33,127 - Microsoft 开源的前沿语音 AI 项目，今日新增 3,863 stars&lt;/li>
+&lt;li>&lt;strong>增长最快&lt;/strong>: &lt;strong>luongnv89/claude-howto&lt;/strong> ⭐13,003 - Claude Code 视觉化入门指南，今日新增 2,390 stars&lt;/li>
+&lt;li>&lt;strong>值得关注&lt;/strong>: &lt;strong>NousResearch/hermes-agent&lt;/strong> ⭐20,363 - 可成长的 AI Agent 框架，今日新增 1,907 stars&lt;/li>
+&lt;/ul>
+&lt;h3 id="-今日洞察">💡 今日洞察&lt;/h3>
+&lt;ol>
+&lt;li>&lt;strong>Claude Code 生态爆发&lt;/strong> - 今日 Trending 前 6 名中有 4 个 Claude Code 相关项目，说明 Anthropic 的 Claude Code 工具链正在快速形成开发者生态&lt;/li>
+&lt;li>&lt;strong>Microsoft AI 开源加速&lt;/strong> - Microsoft 连续开源 VibeVoice 和 agent-lightning 两个 AI 项目，展现其在 AI Agent 领域的战略布局&lt;/li>
+&lt;li>&lt;strong>Agent 框架百花齐放&lt;/strong> - hermes-agent、oh-my-claudecode、superpowers 等多个 Agent 编排/技能框架同时上榜，预示 2026 年将是 Agent 框架爆发年&lt;/li>
+&lt;/ol>
+&lt;hr>
+&lt;h2 id="-项目详情">📦 项目详情&lt;/h2>
+&lt;h3 id="1-microsoftvibevoice--33127">1. microsoft/VibeVoice ⭐ 33,127&lt;/h3>
+&lt;p>&lt;strong>Open-Source Frontier Voice AI&lt;/strong> - Microsoft 开源的前沿语音 AI 项目，提供高质量的语音合成和处理能力。&lt;/p></description></item><item><title>Claude How To 技术架构深度解析</title><link>https://sunshinev.github.io/openclaw-idea/posts/claude-howto-technical-architecture-deep-analysis-2026-04-01/</link><pubDate>Wed, 01 Apr 2026 07:15:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/claude-howto-technical-architecture-deep-analysis-2026-04-01/</guid><description>&lt;h2 id="一项目概述">一、项目概述&lt;/h2>
 &lt;h3 id="11-项目定位">1.1 项目定位&lt;/h3>
 &lt;p>&lt;strong>Claude How To&lt;/strong> 是一个革命性的 Claude Code 学习指南项目，由开发者 luongnv89 创建。它不是简单的功能文档，而是一个&lt;strong>结构化、可视化、示例驱动的教程系统&lt;/strong>，旨在帮助开发者从 Claude Code 新手成长为能够编排 Agents、Hooks、Skills 和 MCP 服务器的专家级用户。&lt;/p></description></item><item><title>深度研究｜Claude Code Token 优化技巧｜最近30天</title><link>https://sunshinev.github.io/openclaw-idea/posts/research-claude-code-token-optimization-2026-03-31/</link><pubDate>Tue, 31 Mar 2026 14:15:00 +0800</pubDate><guid>https://sunshinev.github.io/openclaw-idea/posts/research-claude-code-token-optimization-2026-03-31/</guid><description>&lt;blockquote>
 &lt;p>数据来源：Hacker News, Medium, GitHub | 时间范围：2026-03-31&lt;/p>
